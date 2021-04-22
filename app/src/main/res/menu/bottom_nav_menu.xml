@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/text_frag_mi"
+        android:title="Text"
+        android:icon="@drawable/ic_text_24"/>
+
+    <item
+        android:id="@+id/binary_frag_mi"
+        android:title="Binary"
+        android:icon="@drawable/ic_image_24"/>
+
+</menu>
